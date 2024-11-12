@@ -1,0 +1,10 @@
+{
+    "name": "Flask App",
+    "forwardPorts": [5000],
+    "portsAttributes": {
+        "5000": {
+            "label": "Flask App",
+            "visibility": "public"
+        }
+    }
+}
